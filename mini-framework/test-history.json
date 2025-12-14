@@ -1,0 +1,16 @@
+[
+  {
+    "case": {
+      "modo": "error",
+      "nivel": 100
+    },
+    "failed": true
+  },
+  {
+    "case": {
+      "modo": "normal",
+      "nivel": 20
+    },
+    "failed": false
+  }
+]
