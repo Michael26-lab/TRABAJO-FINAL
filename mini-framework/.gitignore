@@ -1,0 +1,6 @@
+# Ignorar archivos de configuración local
+.vscode/
+.env
+*.log
+__pycache__/
+*.pyc
