@@ -6,6 +6,7 @@
     "test": "jasmine"
   },
   "devDependencies": {
+    "eslint": "^9.39.2",
     "jasmine": "^5.0.0"
   }
 }
