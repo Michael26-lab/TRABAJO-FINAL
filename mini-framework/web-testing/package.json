@@ -1,0 +1,11 @@
+{
+  "name": "web-testing",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "devDependencies": {
+    "jasmine": "^5.0.0"
+  }
+}

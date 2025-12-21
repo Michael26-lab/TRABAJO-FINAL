@@ -1,0 +1,5 @@
+describe("Pruebas Web Básicas", () => {
+  it("debe validar una suma simple", () => {
+    expect(2 + 2).toBe(4);
+  });
+});
