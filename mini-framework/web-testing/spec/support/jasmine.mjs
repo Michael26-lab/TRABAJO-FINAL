@@ -1,0 +1,11 @@
+export default {
+  spec_dir: "spec",
+  spec_files: [
+    "**/*spec.js"
+  ],
+  helpers: [],
+  env: {
+    stopSpecOnExpectationFailure: false,
+    random: true
+  }
+};

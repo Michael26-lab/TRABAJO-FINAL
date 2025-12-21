@@ -1,0 +1,12 @@
+{
+  "name": "web-testing",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "devDependencies": {
+    "eslint": "^9.39.2",
+    "jasmine": "^5.0.0"
+  }
+}
